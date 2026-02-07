@@ -48,6 +48,6 @@
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.1",
     "crc-32": "https://cdn.sheetjs.com/crc-32-latest/crc-32-latest.tgz",
-    "express": "^5.1.0"
+    "express": "^5.2.1"
   }
 }
