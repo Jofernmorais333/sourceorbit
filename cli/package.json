@@ -46,7 +46,7 @@
     "webpack-cli": "^4.5.0"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.1",
+    "@modelcontextprotocol/sdk": "^1.25.3",
     "crc-32": "https://cdn.sheetjs.com/crc-32-latest/crc-32-latest.tgz",
     "express": "^5.1.0"
   }
